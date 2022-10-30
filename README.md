@@ -7,5 +7,5 @@ go build [file name].go
 ```
 RUN
 ```powershell
-[file name].exe
+.\[file name].exe
 ```
