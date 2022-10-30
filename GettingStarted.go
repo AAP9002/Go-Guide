@@ -1,5 +1,6 @@
 package main
-import "fmt"
+
+import "fmt" // output to user and receive inputs
 
 /*
 this is a multi-line comment
@@ -7,7 +8,7 @@ this is a multi-line comment
 
 func main() {
    // outputs GO 3 times
-    fmt.Println("GO")
+    fmt.Println("GO") // print line
     fmt.Println("GO")
     fmt.Print("GO")
 }
